@@ -1,5 +1,5 @@
 .gradle
-/build/
+git remote add origin https://github.com/JakubWaw93/CurrencyExchange-FRONTEND.git/build/
 !gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
